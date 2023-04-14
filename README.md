@@ -14,6 +14,6 @@ Required Modules/Libraries
 
 Dataset - "MagicBricks.csv" from Kaggle
 
-Summary:
+Summary -
         Performed exploratory data analysis to understand the underlying distribution of dataset and relationship between the variables. It includes analyzing the variables, missing value handling, encoding the categorical variables and feature scaling. 
         And, built predictive models using various machine learning algorithms and evaluated each model's performance using the error metrics.

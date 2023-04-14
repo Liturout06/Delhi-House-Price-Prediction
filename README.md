@@ -13,3 +13,12 @@ Required Modules/Libraries
 7. math
 
 Dataset - "MagicBricks.csv" from Kaggle
+
+Summary:
+        -- Performed exploratory data analysis to understand the underlying distribution of dataset and relationship between the variables.
+              ~ Analyzing the varibles 
+              ~ Missing Value Handling
+              ~ Encoding the categorical variables
+              ~ Feature Scaling
+        -- Built predictive model using various machine learing algorithms.
+        -- Evaluated all the models performance using the error metrics.
